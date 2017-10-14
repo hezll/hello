@@ -5,6 +5,6 @@ import (
 	"github.com/golang/example/stringutil"
 )
 
-func main(){
+func Main111(){
 	fmt.Printf(stringutil.Reverse("Hello,work!.\n"))
 }
